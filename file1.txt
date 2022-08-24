@@ -1,2 +1,6 @@
 import module
 mymodule.a("tom","good evening")
+
+import datetime
+x=datetime.datetime.now()
+print(x.month)
